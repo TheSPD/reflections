@@ -11,4 +11,10 @@ Forks are also copies of the repository, but on GitHub.
 - Give proper attribution to the person who wrote the code and then easily getting the code.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
-d
+Helps us track if we are working on anything that needs to be updated to the remote copy.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Easier - No need to learn git/GitHub
+Harder - Tracking all the changes.
+         Assigning fixes to specific person.
+         Making changes that are compatible.
