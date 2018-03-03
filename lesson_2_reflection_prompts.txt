@@ -8,14 +8,20 @@ When all the files are not supposed to be added in a commit but are required
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+You can change the files in the staging are which have the logical commit.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+When there are milestones, you'd like to give it a name. When an experimental feature is being developed then a branch is useful.
 
 How do the diagrams help you visualize the branch structure?
+Its nice to see all the brances in the log. with a structure
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+We get the commits of both the branches. To help us understand it better.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+automatic merging is fast and helps save a lot of time. But many times it may not merge correctly.
+So, Manual merging has to be done. It guarantees to be correct.
