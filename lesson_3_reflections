@@ -9,3 +9,6 @@ Branches are part of repository. - Testing features on a project.
 Clones are just copies of the repository. - Getting local copies of the repository to work on it.
 Forks are also copies of the repository, but on GitHub.
 - Give proper attribution to the person who wrote the code and then easily getting the code.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+d
