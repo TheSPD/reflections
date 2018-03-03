@@ -18,3 +18,6 @@ Easier - No need to learn git/GitHub
 Harder - Tracking all the changes.
          Assigning fixes to specific person.
          Making changes that are compatible.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+All the time when you're collaborating. Helps others know what changes I have made and see their views on it.
