@@ -3,3 +3,9 @@ When you want to share code or you want more availability of your code
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 GitHub is public and you may not want all the intermediate changes to be public.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Branches are part of repository. - Testing features on a project.
+Clones are just copies of the repository. - Getting local copies of the repository to work on it.
+Forks are also copies of the repository, but on GitHub.
+- Give proper attribution to the person who wrote the code and then easily getting the code.
